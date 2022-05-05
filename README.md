@@ -1,11 +1,11 @@
 # Welcome!
 
-👋 **Hi, I’m Lucas Leonetti, I'm a engineer student at university Siglo21 in Argentina.**
+👋 **Hi, I’m Lucas Leonetti, I'm a engineer universitary student in Argentina.**
 
 >
 
 🌱 *I’m currently learning Java POO and functional programming. Spring Framework.
-    Experience in Front-End pages with Javascript languaje, but you know, I preffer backend zone.*
+    Experience in FrontEnd pages with Javascript languaje with some frameworks, but you know, I preffer backend zone.*
 >
    *As soon as possible i will upload some projects with these technologies.*
 >
