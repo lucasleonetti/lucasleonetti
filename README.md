@@ -5,7 +5,7 @@
 >
 
 🌱 *I’m currently learning Java with SpringFramework and Go (Golang).
-    Experience in FrontEnd pages with Javascript languaje with some frameworks, but you know, I preffer backend zone.*
+    I've got some experience in FrontEnd with Javascript languaje with some frameworks, but you know, I preffer backend zone.*
 >
    *As soon as possible i will upload some projects with these technologies.*
 >
