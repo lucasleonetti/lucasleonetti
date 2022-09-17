@@ -1,13 +1,13 @@
 # Welcome!
 
-👋 **Hi, I’m Lucas Leonetti, I'm a engineer universitary student in Argentina.**
+👋 ## **Hi, I’m Lucas Leonetti, I'm a software engineer student in Argentina.**
 
 >
 
-🌱 *I’m currently learning Java with SpringFramework and Go (Golang).
-    I've got some experience in FrontEnd with Javascript languaje with some frameworks, but you know, I preffer backend zone.*
+🌱 *This repositories are a little prejects i made in my free times, JetBrains academy and alura latam made my evenings more interestings altough my universitary career takes all of my time. If there anything in this projects that helps you, take it!*
+    
 >
-   *As soon as possible i will upload some projects with these technologies.*
+   
 >
    *We can grow up togheter, the only constant is change.*
 
