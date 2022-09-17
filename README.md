@@ -1,6 +1,6 @@
 # Welcome!
 
-👋 ## **Hi, I’m Lucas Leonetti, I'm a software engineer student in Argentina.**
+👋 **Hi, I’m Lucas Leonetti, I'm a software engineer student in Argentina.**
 
 >
 
