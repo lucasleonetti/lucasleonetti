@@ -4,7 +4,7 @@
 
 >
 
-🌱 *This repositories are a little prejects i made in my free times, JetBrains academy and alura latam made my evenings more interestings altough my universitary career takes all of my time. If there anything in this projects that helps you, take it!*
+🌱 *This repositories are a little prejects i made in my free times, playing with these works and challenges made my evenings more fun altough my universitary career takes all of my time. If there anything in this projects that helps you, take it!*
     
 >
    
