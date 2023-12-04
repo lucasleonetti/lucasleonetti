@@ -14,8 +14,7 @@
 
 📫 How to reach me  
 
-> Gmail: lucas.leone95@gmail.com
-> 
-> [Instagram](https://www.instagram.com/lucasleonetti/?hl=es-la).
+> Mail: lucas.leone95@gmail.com
+> [Official Website](https://www.lucasleonetti.com/)
 
 Have a great day!
