@@ -1,4 +1,4 @@
-# 💻 Lucas Leonetti - Software Engineer and Analyst
+# 💻 Lucas Leonetti - Software Engineer and Data Engineer
 
  Especialización en Big Data e Ingeniería de Datos - Cloud Computing
 
