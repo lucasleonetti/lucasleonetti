@@ -43,11 +43,11 @@ Soy un apasionado por el diseño y desarrollo de soluciones tecnológicas que op
 - **Stack:** Hadoop Ecosystem, Airflow, Spark, Hive, Google Loocker Studio.
 - **Descripción:** Diseño e implementación de un pipeline automatizado para procesar y analizar datos relacionados con vuelos nacionales.
 
-### **Proyecto Orquestacion ETL Para Rental Cars en EEUU**
+#### **Proyecto Orquestacion ETL Para Rental Cars en EEUU**
 - **Stack:** Hadoop Ecosystem, Airflow, Spark, Hive, Google Loocker Studio.
-- **Descripcion:** Diseño e implementación de un pipeline automatizado para procesar y analizar datos relacionados con alquiler de vehiculos ubicada en los EEUU.
+- **Descripcion:** Diseño e implementación de un pipeline automatizado para procesar y analizar datos relacionados a un empresa de alquiler de vehiculos ubicada en los EEUU.
 
-### ***Proyecto Orquestacion ETL Para Analizar Datos Epidemiologicos Publicos***
+#### **Proyecto Orquestacion ETL Para Analizar Datos Epidemiologicos Publicos**
 - **Stack:** Amazon Redshift, Pandas, Airflow
 - **Descripcion:** Diseño e implementacion de un pipeline automatizado en airflow para llevar datos limpios a Redshift para su posterior analisis.
   
