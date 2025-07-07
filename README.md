@@ -50,6 +50,9 @@ Soy un apasionado por el diseño y desarrollo de soluciones tecnológicas que op
 #### **Proyecto Orquestacion ETL Para Analizar Datos Epidemiologicos Publicos**
 - **Stack:** Amazon Redshift, Pandas, Airflow
 - **Descripcion:** Diseño e implementacion de un pipeline automatizado en airflow para llevar datos limpios a Redshift para su posterior analisis.
+
+### **ELT On Azure Services with Databricks, Blob Storage and Data Factory**
+- **Descripcion:** Diseno e implementacion de un pipeline de datos de distintos puntos de origen para dar soporte y analisis al area de venta de una empresa vendedora de video juegos  
   
 ---
 
