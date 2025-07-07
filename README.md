@@ -34,11 +34,6 @@ Soy un apasionado por el diseño y desarrollo de soluciones tecnológicas que op
 
 ### 📚 Proyectos destacados
 
-#### **Sistema Integral para Exploración y Análisis de Datos Epidemiológicos**
-- **Frontend:** Vue.js, TypeScript, TailwindCSS.
-- **Backend:** Python, FastAPI.
-- **Descripción:** Dashboard interactivo para analizar datos de salud pública.
-
 #### **Proyecto Orquestación de ETL para ANAC**
 - **Stack:** Hadoop Ecosystem, Airflow, Spark, Hive, Google Loocker Studio.
 - **Descripción:** Diseño e implementación de un pipeline automatizado para procesar y analizar datos relacionados con vuelos nacionales.
